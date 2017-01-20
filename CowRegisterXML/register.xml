@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cows xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cow>
+    <CowNumber>3</CowNumber>
+    <CowAge>1</CowAge>
+    <CowImmunizationDate>2005-02-02T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>4</CowNumber>
+    <CowAge>2</CowAge>
+    <CowImmunizationDate>2003-12-08T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>6</CowNumber>
+    <CowAge>2</CowAge>
+    <CowImmunizationDate>2005-02-01T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>7</CowNumber>
+    <CowAge>2</CowAge>
+    <CowImmunizationDate>2005-02-01T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>8</CowNumber>
+    <CowAge>5</CowAge>
+    <CowImmunizationDate>1999-02-02T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>5</CowNumber>
+    <CowAge>1</CowAge>
+    <CowImmunizationDate>1999-08-02T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>9</CowNumber>
+    <CowAge>8</CowAge>
+    <CowImmunizationDate>2005-05-01T00:00:00</CowImmunizationDate>
+  </Cow>
+  <Cow>
+    <CowNumber>2</CowNumber>
+    <CowAge>8</CowAge>
+    <CowImmunizationDate>2005-05-01T00:00:00</CowImmunizationDate>
+  </Cow>
+</Cows>

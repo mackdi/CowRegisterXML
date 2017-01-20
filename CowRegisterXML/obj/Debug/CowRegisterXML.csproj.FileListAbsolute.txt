@@ -1,0 +1,18 @@
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.exe.config
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.exe
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.pdb
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.csprojResolveAssemblyReference.cache
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.Form1.resources
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.Properties.Resources.resources
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.csproj.GenerateResource.Cache
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.exe
+C:\Users\Динко\Documents\Visual Studio 2015\Projects\CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.pdb
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.exe.config
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.exe
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.pdb
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.exe
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\bin\Debug\CowRegisterXML.pdb
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.Form1.resources
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.Properties.Resources.resources
+D:\Documents\Projects\SSS Projects\4.CowRegisterXML\CowRegisterXML\obj\Debug\CowRegisterXML.csproj.GenerateResource.Cache
